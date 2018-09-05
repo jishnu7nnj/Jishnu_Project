@@ -1,0 +1,5 @@
+Git: The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository. A git repository contains a set of commit objects.
+The Git repository is stored in the same directory as the project itself, in a subdirectory called .git.
+Installation:
+1.	First we need to download a version control tool; here we will be using git.
+2.	You can download git from https://git-scm.com/download/win.
